@@ -1,0 +1,719 @@
+menurut
+follow, obey, think
+
+menolak
+object, refused, decline
+
+menutup
+closing, shut, close
+
+menunggu
+waited, wait for, waiting
+
+menarik
+interesting, appealing, exciting
+
+menerima
+take, get, accept
+
+memesan
+reserving, ordered, reserved
+
+memanggil
+calling, calls, summon
+
+memilih
+pick, picking, chooses
+
+mencari
+looking for, searching for, am looking for
+
+mendapat
+obtain, get, gets
+
+mendorong
+encourages, pushing, encourage
+
+mencoba
+try, attempted, tried
+
+menjadi
+becomes, become, being
+
+menjual
+sells, selling, sell
+
+mendengar
+hears, hear, heard
+
+menjaga
+protect, take care, maintain
+
+membangun
+built, build, building
+
+membuka
+unpacked, untying, unlocks
+
+memberi
+give, gave, gives
+
+membuat
+makes, made, produced
+
+membantu
+helps, helping, helpful
+
+membayar
+pay, pays, paying
+
+meminum
+drink, drank, drinks
+
+meminta
+asked, requests, ask for
+
+memakan
+eats, ate, eating
+
+melihat
+saw, look in, looked
+
+memulai
+started, starting, begin
+
+melempar
+throws, threw, thrown
+
+oranye
+orange
+
+abu-abu
+gray, grey
+
+merah muda
+pink
+
+ungu
+purple, violet
+
+warna
+color, colours, colors
+
+kuning
+yellow
+
+biru
+blue
+
+hijau
+green
+
+pertanyaan
+question, questions
+
+mengapa
+why
+
+benar
+true, right, really
+
+salah
+fault, wrong, incorrect
+
+kapan
+when, when does
+
+kenapa
+why
+
+apa
+is, do, which
+
+di mana
+where
+
+bagaimana
+what, how, how's
+
+berasal
+originate, comes from, come from
+
+berpikir
+thinking, thought, thinks
+
+bermain
+playing, play, played
+
+berharap
+hoped, wishes, expects
+
+bersama
+with, along, together
+
+bergerak
+move, moving, moves
+
+belajar
+learns, studied, learn
+
+berkumpul
+get together, gather, gathering
+
+berlaku
+valid, counts, apply
+
+berkunjung
+visit, visits
+
+bekerja
+work, working, works
+
+berkembang
+progressing, flourish, in progress
+
+berbicara
+speak, talking, talk
+
+bersaing
+competing, compete, competes
+
+bertemu
+encounters, meeting, see
+
+berubah
+changed, change, turned
+
+berangkat
+leave for, left, go
+
+berdiri
+stand, stands up, stands
+
+berhenti
+ends, stopped, quit
+
+berada
+is, am, at
+
+berjalan
+walks, walking, go
+
+berhasil
+success, succeeding, successfully
+
+karena
+because, because of, for
+
+ketika
+while, as, when
+
+jadi
+is, getting, so
+
+namun
+however, but
+
+atau
+or, nor, alternatively
+
+yang
+is, am, the
+
+tapi
+but
+
+syal
+scarf, shawl, scarves
+
+memakai
+put (on), wears, wearing
+
+kaus
+t-shirt, t-shirts
+
+topi
+hat, cap, hats
+
+dasi
+tie, necktie
+
+sarung tangan
+glove, gloves
+
+kaus kaki
+Socks, sock
+
+membawa
+takes, take, transport
+
+rok
+skirt, skirts
+
+sabuk
+belt, belts
+
+kemeja
+shirt, shirts
+
+mantel
+coat
+
+jaket
+jackets, jacket, sweatshirt
+
+payung
+umbrella, umbrellas
+
+sepatu
+shoes, shoe
+
+kantong
+pocket, pockets
+
+membeli
+(to) buy, get, purchasing
+
+tas
+bag, bags
+
+dompet
+wallet, wallets, purse
+
+pakaian
+clothing, outfit, clothes
+
+celana
+pants, trousers
+
+pensil
+pencils, pencil
+
+anjing
+dog, dogs, dogs'
+
+bola
+football, ball, soccer
+
+milik
+belongs, 's, belong
+
+tinggal
+stay, live, stayed
+
+bisa
+able, can, can't
+
+mulai
+starting, begun, begin
+
+selesai
+done, finished, end
+
+tidur
+falls asleep, sleeping, sleep
+
+lupa
+forgotten, forget, forgets
+
+ingat
+remember
+
+jatuh
+fallen, fall, fell
+
+kembali
+return, come back, again
+
+masuk
+entry, entering, included
+
+keluar
+out, came out, go out
+
+duduk
+sitting, seated, sits
+
+muncul
+show up, appear, appears
+
+setuju
+agrees, agree, agreeing
+
+datang
+arrives, arrive, comes
+
+toko
+a shop, shop, store
+
+situ
+there
+
+bank
+bank, the bank
+
+toilet
+restroom, kamar kecil, bathroom
+
+pulang
+go home, come home, be home
+
+sana
+there
+
+pergi
+away, travel, left
+
+hotel
+hotel
+
+pasar
+market, markets
+
+gedung
+building, buildings
+
+ke
+go, into, to
+
+sekolah
+school
+
+rumah
+home, house, homes
+
+sini
+here
+
+dapur
+kitchen, kitchens
+
+di
+is, be at, at
+
+ada
+is, am, were
+
+kecap
+sweet soy sauce, soy sauce
+
+es
+ice, iced
+
+sambal
+chili sauce, chilli sauce, hot sauce
+
+bayar
+pay, pays, pay for
+
+harga
+price, worth, cost
+
+minta
+ask for, ask, asking
+
+panas
+heat, hot
+
+cokelat
+chocolate, cocoa, brown
+
+kacang
+beans, peanut, nuts
+
+merica
+pepper, peppers
+
+pisang
+banana, bananas
+
+garam
+salt
+
+roti
+bread, breads
+
+gula
+sugar
+
+kopi
+coffee, coffees
+
+sarapan
+breakfast, breakfasts
+
+kue
+cookie, cake, cookies
+
+enak
+delicious, good (food), tasty
+
+manis
+sweet, sweetened
+
+teh
+tea
+
+tomat
+tomato, tomatoes
+
+telur
+egg, eggs
+
+stroberi
+strawberry, strawberries
+
+tahu
+knows, know, knew
+
+jus
+juice
+
+tempe
+tempeh, tempehs
+
+makanan
+dish, food, meal
+
+sup
+soup
+
+minuman
+beverage, drinks, beverages
+
+daging
+meat
+
+pesan
+ordered, orders, order
+
+restoran
+restaurant, restaurants
+
+nasi
+rice
+
+ayam
+chicken, chickens
+
+goreng
+fry, fried
+
+dengan
+of, with, to
+
+salam
+greetings, regards
+
+sampai jumpa lagi
+see you again, until we meet again
+
+selamat malam
+good night, good evening
+
+terima kasih banyak
+thank you very much
+
+waalaikumsalam
+greetings to you, too
+
+selamat siang
+Good afternoon
+
+permisi
+sorry, excuse me
+
+selamat tinggal
+bye, goodbye
+
+assalamualaikum
+greetings, greetings to you
+
+sampai jumpa
+see you, bye, goodbye
+
+selamat datang
+welcome
+
+sama-sama
+you are welcome
+
+selamat jalan
+goodbye, bye
+
+ya
+right, please, yes
+
+terima kasih
+thanks, thank you
+
+maaf
+sorry, excuse me
+
+silakan
+please, go ahead
+
+selamat pagi
+good morning
+
+tidak
+do not, n't, no
+
+besar
+grand, large, great
+
+ia
+it, he, she
+
+kaya
+wealthy, rich
+
+kami
+we, our, us
+
+gaun
+dresses, dress, gown
+
+kalian
+you, your, you (plural)
+
+anda
+your, you
+
+ini
+this, the, that
+
+mereka
+they, their, them
+
+koran
+newspapers, newspaper
+
+menu
+menu, the menu, menus
+
+membaca
+read, reading, reads
+
+surat
+letters, letter, note
+
+menulis
+writing, write, to write
+
+aku
+I, me, my
+
+buku
+book, books, textbook
+
+kita
+us, we, our
+
+berapa
+how many, what, how
+
+umur
+age, old
+
+tahun
+years, year, years'
+
+dua puluh
+twenty, 20, 20 in quantity
+
+sepuluh
+ten, ten in number, 10
+
+jepang
+Japan, Japanese
+
+mana
+where, where is, which
+
+jakarta
+Jakarta
+
+bali
+Bali
+
+bukan
+no, isn't, is not
+
+dari
+of, from, with
+
+andi
+Andi
+
+nama
+name, names
+
+tini
+Tini
+
+apa kabar
+how are you
+
+halo
+Hello, Hi, greetings
+
+siapa
+what (name), whom, who
+
+merah
+red
+
+hitam
+black, are black
+
+kucing
+cat, cats, kitty
+
+kuat
+strong, powerful
+
+putih
+white
+
+dia
+she, her, he's
+
+dan
+and, dan
+
+susu
+milk
+
+air
+water
+
+kamu
+you, your
+
+punya
+belongs, own, possess
+
+minum
+to drink, drinks, drink
+
+itu
+is, am, it's
+
+apel
+apple, apples, (an) apple
+
+saya
+me, I, my
+
+suka
+like, loves, likes
+
+makan
+eats, eaten, am eating
+
+jeruk
+an orange, oranges, orange
+
+mau
+want, wants, wish
